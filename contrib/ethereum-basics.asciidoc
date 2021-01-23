@@ -35,7 +35,7 @@ Bitcoin establishes the decentralized consensus on account balance amongst all p
 
 [[_anchor_what_is_Ethereum]]
 === What is Ethereum?
-Ethereum, as defined https://github.com/ethereumbook/ethereumbook/blob/develop/what-is.asciidoc#what-is-ethereum[here] is:
+Ethereum, as defined https://github.com/landoyjx/ethereumbook/blob/develop/what-is.asciidoc#what-is-ethereum[here] is:
 [quote]
 Ethereum is an open-source, globally decentralized computing infrastructure that executes programs called smart contracts. It uses a blockchain to synchronize and store the system state along with a cryptocurrency called ether to meter and constrain execution resource cost. 
 

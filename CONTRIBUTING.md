@@ -38,7 +38,7 @@ Added by: @aantonop
 The best way to contribute to this book is by making a pull request:
 
 1. Login with your GitHub account or create one now
-2. [Fork](https://github.com/ethereumbook/ethereumbook#fork-destination-box) the `ethereumbook` repository. Work on your fork.
+2. [Fork](https://github.com/landoyjx/ethereumbook#fork-destination-box) the `ethereumbook` repository. Work on your fork.
 3. Create a new branch on which to make your change, e.g. `git checkout -b my_code_contribution`, or make the change on the `develop` branch.
 4. Please do one pull request PER asciidoc file, to avoid large merges. Edit the asciidoc file where you want to make a change or create a new asciidoc file in the `contrib` directory if you're not sure where your contribution might fit.
 5. Edit `preface.asciidoc` and add your own name to the list of contributors under the Acknowledgment section. Use your name, or a GitHub username, or a pseudonym.
@@ -53,7 +53,7 @@ Here's a video tutorial to help you make your first pull request:
 
 If you find a mistake and you're not sure how to fix it, or you don't know how to do a pull request, then you can file an Issue. Filing an Issue will help us see the problem and fix it.
 
-Create a [new Issue](https://github.com/ethereumbook/ethereumbook/issues/new) now!
+Create a [new Issue](https://github.com/landoyjx/ethereumbook/issues/new) now!
 
 ## Heading styles normalization across the book
 

@@ -60,7 +60,7 @@ This icon indicates a warning or caution.
 [[code_examples_sec]]
 === Code Examples
 
-((("code examples, obtaining and using")))The examples are illustrated in Solidity, Vyper, and JavaScript, and using the command line of a Unix-like operating system. All code snippets are available in the GitHub repository under the _code_ subdirectory. Fork the book code, try the code examples, or submit corrections via GitHub: https://github.com/ethereumbook/ethereumbook.
+((("code examples, obtaining and using")))The examples are illustrated in Solidity, Vyper, and JavaScript, and using the command line of a Unix-like operating system. All code snippets are available in the GitHub repository under the _code_ subdirectory. Fork the book code, try the code examples, or submit corrections via GitHub: https://github.com/landoyjx/ethereumbook.
 
 All the code snippets can be replicated on most operating systems with a minimal installation of compilers, interpreters, and libraries for the corresponding languages. Where necessary, we provide basic installation instructions and step-by-step examples of the output of those instructions.
 

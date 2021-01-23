@@ -252,7 +252,7 @@ We will call our token "Mastering Ethereum Token,&#x201d; with the symbol "MET."
 
 [NOTE]
 ====
-You can find this example https://github.com/ethereumbook/ethereumbook/blob/develop/code/truffle/METoken[in the book's GitHub repository].
+You can find this example https://github.com/landoyjx/ethereumbook/blob/develop/code/truffle/METoken[in the book's GitHub repository].
 ====
 
 First, let's create and initialize a Truffle project directory. Run these four commands and accept the default answers to any questions:

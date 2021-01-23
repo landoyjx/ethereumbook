@@ -282,7 +282,7 @@ include::code/Solidity/Faucet.sol[]
 
 [NOTE]
 ====
-You will find all the code samples for this book in the _code_ subdirectory of https://github.com/ethereumbook/ethereumbook/[the book's GitHub repository]. Specifically, our _Faucet.sol_ contract is in:
+You will find all the code samples for this book in the _code_ subdirectory of https://github.com/landoyjx/ethereumbook/[the book's GitHub repository]. Specifically, our _Faucet.sol_ contract is in:
 
 ----
 code/Solidity/Faucet.sol
